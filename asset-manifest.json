@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gogo-clone/static/css/main.a59f75eb.chunk.css",
+    "main.js": "/gogo-clone/static/js/main.b14af3e1.chunk.js",
+    "main.js.map": "/gogo-clone/static/js/main.b14af3e1.chunk.js.map",
+    "runtime-main.js": "/gogo-clone/static/js/runtime-main.721bfb40.js",
+    "runtime-main.js.map": "/gogo-clone/static/js/runtime-main.721bfb40.js.map",
+    "static/js/2.37965cf0.chunk.js": "/gogo-clone/static/js/2.37965cf0.chunk.js",
+    "static/js/2.37965cf0.chunk.js.map": "/gogo-clone/static/js/2.37965cf0.chunk.js.map",
+    "index.html": "/gogo-clone/index.html",
+    "precache-manifest.5b720eeba2813af7d838e4681d90e537.js": "/gogo-clone/precache-manifest.5b720eeba2813af7d838e4681d90e537.js",
+    "service-worker.js": "/gogo-clone/service-worker.js",
+    "static/css/main.a59f75eb.chunk.css.map": "/gogo-clone/static/css/main.a59f75eb.chunk.css.map",
+    "static/js/2.37965cf0.chunk.js.LICENSE.txt": "/gogo-clone/static/js/2.37965cf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.721bfb40.js",
+    "static/js/2.37965cf0.chunk.js",
+    "static/css/main.a59f75eb.chunk.css",
+    "static/js/main.b14af3e1.chunk.js"
+  ]
+}
